@@ -1,0 +1,14 @@
+a145c508da1d244361955e05f806d96a *DESCRIPTION
+82477267e87ec32ec906e764f0f38124 *NAMESPACE
+5cc583dcae6678f6e84e46faa08b8424 *NEWS.md
+7e358c1f25edf5b03a3284f5d022a74a *R/dobeta.R
+d12f12f1a1d82e140b4d871bdf714968 *R/mue_confidence_interval.R
+3a3e17f3bf966e7749222967560e135f *R/mue_rr.R
+6a7d36a267218bafc514cee887d2c29f *build/vignette.rds
+f7ef24d5ade5ab2f2ce82a0b01f1b687 *inst/doc/Introduction.R
+4bdac5efd54b35ed19753268ae76c9e5 *inst/doc/Introduction.Rmd
+3a8265549646f8979bc00215ee3b4245 *inst/doc/Introduction.html
+2125ad4bbbdb6867d6d325c28542974a *man/dobeta.Rd
+1199cb9294605948c93466d9e58847c6 *man/mue_confidence_interval.Rd
+49faaa856085baaf6e1ee5e09a6fcfab *man/mue_rr.Rd
+4bdac5efd54b35ed19753268ae76c9e5 *vignettes/Introduction.Rmd
